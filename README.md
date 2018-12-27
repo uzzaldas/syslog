@@ -1,1 +1,1 @@
-# syslog
+# Rsyslog with Log Analyzer
